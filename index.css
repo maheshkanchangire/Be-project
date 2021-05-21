@@ -1,0 +1,479 @@
+
+
+.hole{
+
+background-image: url("emile-perron-xrVDYZRGdw4-unsplash.jpg");
+background-color: #e3fdfd;
+height: 100%;
+background-position: center;
+
+  background-repeat: no-repeat;
+   background-size: cover; 
+       
+  /* Full height */
+
+  
+  
+ 
+  /* Center and scale the image nicely */
+  
+ 
+}
+.text-success{
+text-align: left;
+
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+.navbar-nav.navbar-center { 
+  position: absolute; 
+  left: 50%; 
+  transform: translatex(-50%); 
+  margin-top: 10%;
+} 
+.navbar-brand{
+right: 10%;
+
+}
+.navbar{
+background-color:#0de5fd ;
+
+}
+.navbar-custom { 
+  background-color: rgb(11, 247, 255); 
+} 
+.navbar-custom .navbar-brand, 
+        .navbar-custom .navbar-text { 
+            color: rgb(13, 247, 255); 
+        } 
+
+.intro{font-family: 'Sacramento', cursive;color:white;} 
+  
+  .landingpage{
+    min-height:10vh;}
+
+
+.line1{
+  font-size: 120px;
+  position: relative;
+  left: 140px;
+  top: 250px;
+
+}  
+
+.line2{
+font-size: 135px;
+position: relative;
+left: 220px;
+top: 280px;
+}
+.line1:hover{
+
+ color: hsl(165, 100%, 52%);
+
+}
+.line2:hover{
+
+  color: hsl(165, 100%, 52%);
+}
+
+.dropitem:hover{
+
+color: #dcffcc;
+background-color: #21243d;
+
+}
+
+.ibw{
+  position: relative;
+  top: 550px;
+  
+ 
+ }
+ .question{
+
+  text-align: center ;
+  font-family: 'Niconne', cursive;
+  font-size: 60px;
+  padding-top: 30px;
+  
+
+ }
+
+ .discription{
+  color: #144d53;
+  font-family: 'Forum', cursive;
+  font-weight: 600;
+  font-size: 30px; 
+  padding-left: 10px;
+  position: relative;
+  top: 30px;
+  left: 70px;
+  
+ }
+
+
+
+ .letsbutton{
+   text-align: center;
+  font-family: 'Niconne', cursive;
+  color: black;
+  font-weight: 1000;
+  font-size: 20px;
+  opacity: 1;
+  position: relative;
+  left: 630px;
+  top: 85px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 25px;
+ }
+ .btncircle.btn-outline-secondary {
+  
+  border-radius: 30px;
+  border-width: 5px;
+  border-color: #77f3f3;
+
+
+ }
+ .computerlogo{
+  position: relative;
+  left: 20px;
+  top: 50px;
+  padding-right:10px;
+padding-left: 30px;
+
+}
+
+
+.question2{
+
+  text-align: center ;
+  font-family: 'Niconne', cursive;
+  font-size: 60px;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  position: relative;
+  top: 80px;
+
+}
+
+.discription1{
+  color: #144d53;
+  font-family: 'Forum', cursive;
+  font-weight: 600;
+  font-size: 30px; 
+  padding-left: 10px;
+  padding-right: 20px;
+  position: relative;
+  top: 80px;
+  left: 40px;
+
+  
+ }
+ .computerlogo1{
+  position: relative;
+  left: 30px;
+  top: 50px;
+  padding-right:10px;
+  padding-left: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .last{
+ position: relative;
+ top: 10000px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
